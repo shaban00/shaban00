@@ -1,16 +1,12 @@
-### Hi there 👋
+👋 Hi, I’m @shaban00
+    👀 I’m interested in:
+        Web application security
+        Mobile application security
+        Cloud security
+        Blockchain
+        Cryptography
+        Reverse engineering
+        Malware analysis
+    💞️ I’m looking to collaborate on projects relating to security.
+    📫 How to reach me twitter @cryptospider00
 
-<!--
-**shaban00/shaban00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
