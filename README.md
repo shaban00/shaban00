@@ -8,7 +8,7 @@
     - Reverse engineering
     - Malware analysis
 - 💞️ I’m looking to collaborate on projects relating to security.
-- 📫 How to reach me twitter @cryptospider00
+- 📫 How to reach me on twitter (X) @cryptospider00.
 
 <!---
 shaban00/shaban00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
